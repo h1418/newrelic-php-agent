@@ -8,6 +8,8 @@ The [New Relic APM PHP agent](https://docs.newrelic.com/docs/agents/php-agent/ge
 
 ## Installation
 
+test
+
 The PHP agent supports many of the most common PHP releases, PHP frameworks, databases, and libraries. Prior to installation, please ensure your system meets the [compatibility requirements](https://docs.newrelic.com/docs/agents/php-agent/getting-started/php-agent-compatibility-requirements).
 
 To get started with installation, see the PHP Agent [installation](https://docs.newrelic.com/docs/agents/php-agent/installation/php-agent-installation-overview) documentation. The PHP agent pre-built package includes the interactive [`newrelic-install`](https://docs.newrelic.com/docs/agents/php-agent/advanced-installation/using-newrelic-install-script) script, which automates some installation tasks. Also, see our [advanced installation documentation](https://docs.newrelic.com/docs/agents/php-agent/advanced-installation/docker-other-container-environments-install-php-agent) for Docker or other container installations.
